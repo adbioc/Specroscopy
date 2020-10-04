@@ -1,4 +1,4 @@
-# Specroscopy
+# Spectroscopy
 ## The first input in this repository is CD (Circular Dichroism) - the spectral data is from Raja's (Prof. Raja Banerjee,MAKAUT )lab
 - I plan to introduce different data science issues linked to spectroscopy
 - The CD tour provides a case study 
